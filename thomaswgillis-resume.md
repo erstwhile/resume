@@ -1,6 +1,9 @@
 **Thomas W. Gillis**
+
 Web Developer
+
 thomaswgillis@gmail.com
+
 http://github.com/erstwhile/resume
 
 
