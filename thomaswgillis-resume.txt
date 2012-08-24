@@ -2,7 +2,7 @@ Thomas W. Gillis
 Web Developer
 thomaswgillis@gmail.com
 347 469 1866
-github.com/erstwhile/resume
+http://github.com/erstwhile/resume
 
 
 Technologies PHP, MySQL, Javascript, Jquery, HTML, CSS,  Ruby, MongoDB, Supercollider, Node.js, Linux, Apache, Nginx, Photoshop, Git, SVN  
