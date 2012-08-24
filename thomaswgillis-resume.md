@@ -1,13 +1,12 @@
 **Thomas W. Gillis**
 Web Developer
 thomaswgillis@gmail.com
-347 469 1866
 http://github.com/erstwhile/resume
 
 
 *Technologies* PHP, MySQL, Javascript, Jquery, HTML, CSS,  Ruby, MongoDB, Supercollider, Node.js, Linux, Apache, Nginx, Photoshop, Git, SVN  
 
-*Applications* and Frameworks  CakePHP, Wordpress, Ushahidi, Sinatra, Symfony, Kohana, CodeIgniter, Rails, Express, Etherpad
+*Applications and Frameworks*  CakePHP, Wordpress, Ushahidi, Sinatra, Symfony, Kohana, CodeIgniter, Rails, Express, Etherpad
 
 *Social Media* Facebook API, Twitter API
 
