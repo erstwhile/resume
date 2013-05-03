@@ -23,6 +23,7 @@ Concept, design, development and maintenance of tools for activists worldwide, u
 *Lead Developer, Enter New Media* (June 2010 - March 2011)  Led onsite and remote teams of developers.  Implemented coding standards, code reviews, Scrum process.  Introduced new technologies (MongoDB, CakePHP) and standardized technology stack for agency.  
 
 **Recent Sites Developed (2011-2013)**
+
 *OurGoods* ( http://ourgoods.org ) - Ruby on Rails development, including HAML and SASS.  A barter network for the creative community.
 
 *Core77 Design Awards* ( http://core77designawards.com ) - Lead Developer.  Design refresh / optimization / new features for a Wordpress Multisite deployment for an annual international industrial design competition. 
