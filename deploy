@@ -1,5 +1,5 @@
 git add .
-git commit --message=$1
+git commit --message="$1"
 git push
 ssh tgillis@backtrace.us "cd ~/resume; git pull; pandoc thomaswgillis-resume.md -o thomaswgillis-resume.pdf; git add .; git commit -m 'regenerating pdf resume'; git push;"
 
