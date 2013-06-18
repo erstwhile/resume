@@ -17,7 +17,7 @@ Work Experience:
 
 Freelance Developer ( October 2005 - Present )  Worked with digital media agencies, non-profits and activist organizations to develop websites and web applications.
 
-Occupy Wall Street Technology Operations (“TechOps”) (October 2011 - Present) 
+Occupy Wall Street Technology Operations ("TechOps") (October 2011 - Present) 
 Concept, design, development and maintenance of tools for activists worldwide, using PHP, Ruby, and Node.js.  
 
 Lead Developer, Enter New Media (June 2010 - March 2011)  Led onsite and remote teams of developers.  Implemented coding standards, code reviews, Scrum process.  Introduced new technologies (MongoDB, CakePHP) and standardized technology stack for agency.  
