@@ -26,6 +26,8 @@ Concept, design, development and maintenance of tools for activists worldwide, u
 
 *OurGoods* ( http://ourgoods.org ) - Ruby on Rails development, including HAML and SASS.  A barter network for the creative community.
 
+*OccupyMosaic* ( http://mosaic.occupy.net ) - Application to collect photos that are being posted live on a Twitter.  Sinatra / HAML / Javascript / Twitter API.
+
 *Core77 Design Awards* ( http://core77designawards.com ) - Lead Developer.  Design refresh / optimization / new features for a Wordpress Multisite deployment for an annual international industrial design competition. 
 
 *OccupyMap* ( http://map.occupy.net ) Lead Developer / Product Development.  Ushahidi with a data API developed in Sinatra.   A visual archive of Occupy Wall Street protests developed with the Occupy Wall Street Technology Operations Working Group.  
