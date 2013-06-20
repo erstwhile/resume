@@ -1,3 +1,6 @@
+# usage: $ deploy "some commit message"
+# pushes changes to Linux server, checks them out, updates .pdf via pandoc, pushes everything to github
+# then refreshes the local .pdf
 git add .
 git commit --message="$1"
 git push
