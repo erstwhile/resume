@@ -3,6 +3,6 @@
 # then refreshes the local .pdf
 git add .
 git commit --message="$1"
-git push
+git push origin master
 ssh tgillis@backtrace.us "cd ~/resume; git pull; pandoc thomaswgillis-resume.md -o thomaswgillis-resume.pdf; git add .; git commit -m 'regenerating pdf resume'; git push;"
 git pull origin master
